@@ -1,0 +1,2 @@
+INSERT INTO `users` (`id`, `name`, `type`, `username`, `password`) VALUES
+(1, 'Javier', 1, 'admin', 'admin');
